@@ -7,7 +7,7 @@
 				<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moyando&show_icons=true&langs_count=10&layout=compact&theme=dark&count_private=true"/>
 			</td>
 			<td>
-				<img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=moyando&theme=dark&?theme=dark&show_icons=true%count_private=true&include_all_commits=true"/>
+				<img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=moyando&theme=dark&?theme=dark&show_icons=true%&count_private=true&include_all_commits=true"/>
 			</td>
 		</tr>
 	</table>
